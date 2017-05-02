@@ -1,2 +1,2 @@
 # PiOS
-Please use Ionic emulator or Ionic veiw app to veiw this project.
+Please use Ionic emulator or Ionic view app to view this project.
