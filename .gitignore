@@ -1,2 +1,6 @@
 piBackend/node_modules
 piBackend/.DS_Store
+
+ionicFrontend/node_modules/
+platforms/
+plugins/
