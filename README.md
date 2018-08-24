@@ -1,6 +1,6 @@
 # PiOS
 
-To test this app, please follow the instructions closely.
+To test this app, fork & clone this repository, then follow the instructions closely.
 
 ## Raspberry Pi Server Setup
 ### Setup Networking
